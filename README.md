@@ -40,10 +40,10 @@ This guide provides step-by-step instructions to set up the **CRYSTAL Virtual Ma
 
 2. 🧪 **Open VirtualBox** to verify installation.
 
-3. 📦 **Import `CRYSTAL_VM_MSSC2025.ova`**:
+3. 📦 **Import `Windows_Linux.ova`**:
    - Go to **File → Import Appliance**
    - In the "Source" menu
-     - Select the file `CRYSTAL_VM_MSSC2025.ova`
+     - Select the file `Windows_Linux.ova`
    - In the "Settings" menu
      - (Optional) Choose your preferred **Machine Base Folder**
      - For **MAC Address Policy**:  
@@ -58,7 +58,7 @@ This guide provides step-by-step instructions to set up the **CRYSTAL Virtual Ma
 
 1. 🔽 **[Download and Install UTM](https://mac.getutm.app/)**
 
-2. 📂 **Unzip**: `CRYSTAL_VM_MSSC2025.utm.zip`
+2. 📂 **Unzip**: `MacOS_AppleSilicon.utm.zip`
 
 3. 🖱️ **Drag and drop** `CRYSTAL_VM_MSSC2025.utm` into UTM
 
