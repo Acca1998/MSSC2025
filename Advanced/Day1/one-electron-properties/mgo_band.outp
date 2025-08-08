@@ -1,0 +1,244 @@
+/home/test/junior_crystal/TEST_CRY21_vs_CRY17/SVN_PUB_21_10_2020/bin/Linux-ifort_openmpi-3.1.4-icc_i64_clut/std/Pproperties
+/scratch/modalis/tmp_p80745
+script started on node101
+BAND
+Path: G-X-W-L-G
+4 8 60 7 14 1 0
+ 0 0 0  4 0 4
+ 4 0 4  4 2 6
+ 4 2 6  4 4 4
+ 4 4 4  0 0 0
+END
+************************************************
+ANOTHER DROLLERY FILLED RUN OF THE PCRYSTAL CODE!
+************************************************
+Wed 09 Jul 2025 10:36:00 AM CEST
+ PROCESS            0  OF            1  WORKING
+
+         
+ *******************************************************************************
+ *                                                                             *
+ *                               CRYSTAL17                                     *
+ *                      public : 1.0.2 - March 1st, 2018                       *
+ *                       HTTP://WWW.CRYSTAL.UNITO.IT                           *
+ *                                                                             *
+ *                              MAIN AUTHORS                                   *
+ *                                                                             *
+ *  R. DOVESI(1,11), V.R. SAUNDERS(2), C. ROETTI(1,11), R. ORLANDO(1,11),      *
+ *  C.M. ZICOVICH-WILSON(1,3), F. PASCALE(4), B. CIVALLERI(1,11),              *
+ *  K. DOLL(5), N.M. HARRISON(2,6), I.J. BUSH(7), Ph. D'ARCO(8),               *
+ *  M. LLUNELL(9), M. CAUSA'(10), Y. NOEL(8), L. MASCHIO(1,11), A. ERBA(1,11)  *
+ *  M. RE'RAT(14), S. CASASSA(1,11)                                            *
+ *                                                                             *
+ *        CONTRIBUTIONS TO THE CODE HAVE ALSO BEEN GIVEN BY                    *
+ *                                                                             *
+ *  M. FERRABONE(1,11), M. DE LA PIERRE(1,11), M. FERRERO(1,11),               *
+ *  J. BAIMA(1,11), E. ALBANESE(1,11), M.F. PEINTINGER(12), R. BAST(13),       *
+ *  B. KIRTMAN(15), V. LACIVITA(1,11), R. DEMICHELIS(1,16)                     *
+ *  G. BRANDEBURG(17), S. SALUSTRO(1,11), G. SANSONE(1,11)                     *
+ *  M.T. RUGGIERO(18)                                                          *
+ *                                                                             *
+ * (1) THEORETICAL CHEMISTRY GROUP - UNIVERSITA' DI TORINO - TORINO (ITALY)    *
+ * (2) COMPUTATIONAL SCIENCE & ENGINEERING DEPARTMENT - STFC DARESBURY (UK)    *
+ * (3) UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS - CUERNAVACA (MEXICO)        *
+ * (4) UNIVERSITE' DE LORRAINE - NANCY (FRANCE)                                *
+ * (5) UNIVERSITAET STUTTGART- STUTTGART (GERMANY)                             *
+ * (6) IMPERIAL COLLEGE - LONDON (UK)                                          *
+ * (7) OXFORD E-RESEARCH CENTRE - OXFORD (UK)                                  *
+ * (8) UPMC - SORBONNE UNIVERSITES - PARIS (FRANCE)                            *
+ * (9) UNIVERSIDAD DE BARCELONA - BARCELONA (SPAIN)                            *
+ *(10) UNIVERSITA' DI NAPOLI "FEDERICO II" - NAPOLI (ITALY)                    *
+ *(11) NIS - NANOSTRUCTURED INTERFACES AND SURFACES - TORINO (ITALY)           *
+ *(12) MPI FUER CHEMISCHE ENERGIEKONVERSION - MUELHEIM AN DER RUHR (GERMANY)   *
+ *(13) UNIVERSITY OF TROMSO - TROMSO (NORWAY)                                  *
+ *(14) UNIVERSITE' DE PAU ET DES PAYS DE L'ADOUR - PAU (FRANCE)                *
+ *(15) UNIVERSITY OF CALIFORNIA SANTA BARBARA - SANTA BARBARA (USA)            *
+ *(16) CURTIN UNIVERSITY - PERTH (AUSTRALIA)                                   *
+ *(17) UNIVERSITY COLLEGE LONDON - LONDON (UK)                                 *
+ *(18) CAMBRIDGE UNIVERSITY - CAMBRIDGE (UK)                                   *
+ *                                                                             *
+ *******************************************************************************
+ EEEEEEEEEE STARTING  DATE 09 07 2025 TIME 10:36:00.9
+
+ *******************************************************************************
+ MGO                                                                             
+ CRYSTAL - PROPERTIES - TYPE OF CALCULATION :  RESTRICTED CLOSED SHELL
+ *******************************************************************************
+ KOHN-SHAM HAMILTONIAN
+
+ (EXCHANGE)[CORRELATION] FUNCTIONAL:(PERDEW-BURKE-ERNZERHOF)[PERDEW-BURKE-ERNZERHOF]
+
+
+ HYBRID EXCHANGE - PERCENTAGE OF FOCK EXCHANGE    25.0000
+
+ DIRECT LATTICE VECTOR COMPONENTS (ANGSTROM)
+         0.00000    2.10500    2.10500
+         2.10500    0.00000    2.10500
+         2.10500    2.10500    0.00000
+
+ LATTICE PARAMETERS  (ANGSTROM AND DEGREES) - PRIMITIVE CELL
+       A          B          C         ALPHA      BETA     GAMMA        VOLUME
+    2.97692    2.97692    2.97692     60.0000   60.0000   60.0000      18.65462
+ *******************************************************************************
+ N. OF ATOMS PER CELL         2 COULOMB OVERLAP TOL          (T1) 10**   -8
+ NUMBER OF SHELLS             8 COULOMB PENETRATION TOL      (T2) 10**   -8
+ NUMBER OF AO                26 EXCHANGE OVERLAP TOL         (T3) 10**   -8
+ N. OF ELECTRONS PER CELL    20 EXCHANGE PSEUDO OVP (F(G))   (T4) 10**   -8
+ CORE ELECTRONS PER CELL     12 EXCHANGE PSEUDO OVP (P(G))   (T5) 10**  -16
+ N. OF SYMMETRY OPERATORS    48 POLE ORDER IN MONO ZONE                   4
+ *******************************************************************************
+   ATOM N.AT.  SHELL    X(A)      Y(A)      Z(A)      EXAD       N.ELECT.
+ *******************************************************************************
+    1   12 MG    4     0.000     0.000     0.000   2.800E-01      10.133
+    2    8 O     4     2.105     2.105     2.105   1.843E-01       9.867
+ *******************************************************************************
+ DE(K)                   0.000E+00  ENERGY LEVEL SHIFTING        0.00000
+ TOTAL ENERGY -2.7532577627199E+02  CONVERGENCE ON ENER        2.929E-10
+ KIN. ENERGY   2.7427204676284E+02  VIR. COEFF.           1.03385102E+00
+ N. OF SCF CYCLES                8  FERMI ENERGY              -0.177E+00
+ WEIGHT OF F(I) IN F(I+1)      30
+ SHRINK. FACT.(MONKH.)     8  8  8  SHRINKING FACTOR(GILAT NET)        8
+ NUMBER OF K POINTS IN THE IBZ  29  CELL VOLUME (A.U.)        125.887585
+ *******************************************************************************
+
+ GCALCO - MAX INDICES DIRECT LATTICE VECTOR    14    14    14
+ NO.OF VECTORS CREATED 6999 STARS  105 RMAX    59.53536 BOHR
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT gordsh1     TELAPSE        0.04 TCPU        0.02
+
+ MATRIX SIZE: P(G)   51290, F(G)    9208, P(G) IRR    2076, F(G) IRR    1063
+ MAX G-VECTOR INDEX FOR 1- AND 2-ELECTRON INTEGRALS 453
+
+
+ CAPPA:IS1  8;IS2  8;IS3  8; K PTS MONK NET  29; SYMMOPS:K SPACE  48;G SPACE  48
+
+ WARNING **** F90MAIN3 **** BF SYMMETRY ADAPTED-INFO MODIFIED BY BAND-CALL NEWK
+
+
+ *******************************************************************************
+ *                                                                             *
+ *  BAND STRUCTURE                                                             *
+ *  Path: G-X-W-L-G                                                       *
+ *  FROM BAND   7 TO BAND  14                                                  *
+ *  TOTAL OF  60 K-POINTS ALONG THE PATH                                       *
+ *                                                                             *
+ *******************************************************************************
+
+ LINE  1 ( 0.00 0.00 0.00: 0.50 0.00 0.50) IN TERMS OF PRIMITIVE LATTICE VECTORS
+  20 POINTS - SHRINKING_FACTOR 152
+ CARTESIAN COORD. ( 0.000 0.000 0.000):( 0.000 0.790 0.000) STEP  0.0416
+
+
+ LINE  2 ( 0.50 0.00 0.50: 0.50 0.25 0.75) IN TERMS OF PRIMITIVE LATTICE VECTORS
+  10 POINTS - SHRINKING_FACTOR  80
+ CARTESIAN COORD. ( 0.000 0.790 0.000):( 0.395 0.790 0.000) STEP  0.0395
+
+
+ LINE  3 ( 0.50 0.25 0.75: 0.50 0.50 0.50) IN TERMS OF PRIMITIVE LATTICE VECTORS
+  14 POINTS - SHRINKING_FACTOR 112
+ CARTESIAN COORD. ( 0.395 0.790 0.000):( 0.395 0.395 0.395) STEP  0.0399
+
+
+ LINE  4 ( 0.50 0.50 0.50: 0.00 0.00 0.00) IN TERMS OF PRIMITIVE LATTICE VECTORS
+  17 POINTS - SHRINKING_FACTOR 136
+ CARTESIAN COORD. ( 0.395 0.395 0.395):( 0.000 0.000 0.000) STEP  0.0402
+
+
+  160 DATA WRITTEN ON UNIT 25 WITH THE FOLLOWING HEADER :
+ -%-0BAND      0    0    0    4    0    4
+
+   80 DATA WRITTEN ON UNIT 25 WITH THE FOLLOWING HEADER :
+ -%-0BAND      4    0    4    4    2    6
+
+  112 DATA WRITTEN ON UNIT 25 WITH THE FOLLOWING HEADER :
+ -%-0BAND      4    2    6    4    4    4
+
+  136 DATA WRITTEN ON UNIT 25 WITH THE FOLLOWING HEADER :
+ -%-0BAND      4    4    4    0    0    0
+
+ ENERGY RANGE (A.U.)   -0.86921 -   0.83742 EFERMI  -0.17655
+     |*----------------------------------------------*------------------*--------------------------------------------------*|
+     |*                                              *                  *                                                  *|
+     |*                                              *                   *                                               * *|
+     |*                                             **                    *                                            *  * |
+     |*                                            * *                     *                                        *    *  |
+     | *                                           * *                      *                                    *      *   |
+     | *                                          *  *                       *                                *       *     |
+     | *                                         *  *                         *                            *         *      |
+     |  *                                       *   *                          *                         *         *        |
+     |  *                                      *    *                            *                     *          *         |
+     |  *                                     *    *                              *                  *           *          |
+     |   *                                   *     *                               *               *            *           |
+     |   *                                   *     *                                *             *             *           |
+     |   *                                  *     *                                  *           *             *            |
+     |    *                                *      *                                   *         *              *            |
+     |    *                                *      *                                   *         *              *            |
+     |    *                                *      *                                    *       *               *            |
+     |    *                               *       *                                    *       *              *             |
+     |    *                               *       *                                     *      *              *             |
+     |----*-------------------------------*-------*-------------------------------------*------*--------------*-------------|
+     |    *                               *       *                                     *      *              *             |
+     |    *                               *      **                                     *      *             **             |
+     |    *                                *     *                                      *      *            **              |
+     |    *                                *     *                                       *     *          * *               |
+     |    *                                *    **                                        *    *       *   *                |
+     |    *                                *    **                                         *   *     *   *                  |
+     |    *                                 *  * *                                          *  *    *   *                   |
+     |    *                                 *  * *                                           * *  *    *                    |
+     |    *                                  **  *                                            * **    *                     |
+     |----*----------------------------------*---*--------------------------------------------*-*----*----------------------|
+     |    *                                  *   *                                            * *     *                     |
+     |    *                                  **  *                                            ** *    *                     |
+     |    *                                  **  *                                           **  *     *                    |
+     |    *                                 * *   *                                          *    *     *                   |
+     |    *                                 *  *  *                                         **     *     *                  |
+     |    *                                *    *  *                                       * *      *    *                  |
+     |    *                                *    *  *                                      *  *       *    *                 |
+     |    *                               *      * *                                     *   *        *    *                |
+     |    *                               *       **                                    *    *         *   *                |
+     |    *                              *        **                                   *      *         *  *                |
+     |    *                              *         **                                 *       *          * *                |
+     |    *                              *         **                                 *       *           **                |
+     |    *                              *          *                                *        *            *                |
+     |----*------------------------------*----------*--------------------------------*--------*------------*----------------|
+     |    *                              *          *                                *        *            *                |
+     |   *                               *          *                                *        *            *                |
+     |   *                                *         *                               *          *            *               |
+     |   *                                *         *                               *            *          *               |
+     |   *                                 *        *                              *              *          *              |
+     |  *                                   *       *                             *                 *         *             |
+     |  *                                    *      *                            *                    *        *            |
+     |  *                                     *      *                          *                        *       *          |
+     | *                                       *     *                         *                            *     *         |
+     | *                                        *    *                        *                                *    *       |
+     | *                                         *   *                      *                                     *  *      |
+     | *                                          *  *                     *                                         * *    |
+     |*                                            * *                    *                                            **   |
+     |*                                             **                   *                                               *  |
+     |*                                              *                   *                                                * |
+     |*                                              *                  *                                                  *|
+     |*----------------------------------------------*------------------*--------------------------------------------------*|
+
+ CAPPA:IS1  8;IS2  8;IS3  8; K PTS MONK NET  29; SYMMOPS:K SPACE  48;G SPACE  48
+
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT BAND        TELAPSE        0.06 TCPU        0.04
+ ENDPROP   
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT END         TELAPSE        0.06 TCPU        0.04
+ EEEEEEEEEE TERMINATION  DATE 09 07 2025 TIME 10:36:00.9
+NODE    0 CPU TIME =         0.043
+    TOTAL CPU TIME =         0.043
+Wed 09 Jul 2025 10:36:01 AM CEST
+total 12572
+-rw-r--r-- 1 modalis modalis     8142 Jul  9 10:36 BAND.DAT
+-rw-r--r-- 1 modalis modalis        0 Jul  9 10:36 fort.10.pe0
+-rw-r--r-- 1 modalis modalis    73672 Jul  9 10:36 fort.11.pe0
+-rw-r--r-- 1 modalis modalis   410328 Jul  9 10:36 fort.13.pe0
+-rw-r--r-- 1 modalis modalis        0 Jul  9 10:36 fort.15.pe0
+-rw-r--r-- 1 modalis modalis     6383 Jul  9 10:36 fort.25
+-rw-r--r-- 1 modalis modalis        0 Jul  9 10:36 fort.26.pe0
+-rw-r--r-- 1 modalis modalis    73672 Jul  9 10:36 fort.3.pe0
+-rw-r--r-- 1 modalis modalis    27024 Jul  9 10:36 fort.61.pe0
+-rw-r--r-- 1 modalis modalis    20256 Jul  9 10:36 fort.62.pe0
+-rw-r--r-- 1 modalis modalis        0 Jul  9 10:36 fort.8.pe0
+-rw-r--r-- 1 modalis modalis   130748 Jul  9 10:36 fort.9
+-rw-r--r-- 1 modalis modalis      101 Jul  9 10:36 INPUT
+-rwxr-xr-x 1 modalis modalis 12108056 Jul  9 10:36 Pproperties-567823
