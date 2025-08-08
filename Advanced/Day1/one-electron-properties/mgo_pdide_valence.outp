@@ -1,0 +1,210 @@
+/home/test/junior_crystal/TEST_CRY21_vs_CRY17/SVN_PUB_21_10_2020/bin/Linux-ifort_openmpi-3.1.4-icc_i64_clut/std/Pproperties
+/scratch/daga/tmp_p15276
+script started on node26
+NEWK
+8 8
+1 0
+PDIDE
+-1 -0.1
+ECHG
+0
+100
+COORDINA
+-4. -4. 0.0
+ 4. -4. 0.0
+ 4.  4. 0.0
+MARGINS
+1.5 1.5 1.5 1.5
+END
+END
+************************************************
+ANOTHER DROLLERY FILLED RUN OF THE PCRYSTAL CODE!
+************************************************
+Thu 17 Jul 2025 01:12:59 PM CEST
+ PROCESS            0  OF            1  WORKING
+
+         
+ *******************************************************************************
+ *                                                                             *
+ *                               CRYSTAL17                                     *
+ *                      public : 1.0.2 - March 1st, 2018                       *
+ *                       HTTP://WWW.CRYSTAL.UNITO.IT                           *
+ *                                                                             *
+ *                              MAIN AUTHORS                                   *
+ *                                                                             *
+ *  R. DOVESI(1,11), V.R. SAUNDERS(2), C. ROETTI(1,11), R. ORLANDO(1,11),      *
+ *  C.M. ZICOVICH-WILSON(1,3), F. PASCALE(4), B. CIVALLERI(1,11),              *
+ *  K. DOLL(5), N.M. HARRISON(2,6), I.J. BUSH(7), Ph. D'ARCO(8),               *
+ *  M. LLUNELL(9), M. CAUSA'(10), Y. NOEL(8), L. MASCHIO(1,11), A. ERBA(1,11)  *
+ *  M. RE'RAT(14), S. CASASSA(1,11)                                            *
+ *                                                                             *
+ *        CONTRIBUTIONS TO THE CODE HAVE ALSO BEEN GIVEN BY                    *
+ *                                                                             *
+ *  M. FERRABONE(1,11), M. DE LA PIERRE(1,11), M. FERRERO(1,11),               *
+ *  J. BAIMA(1,11), E. ALBANESE(1,11), M.F. PEINTINGER(12), R. BAST(13),       *
+ *  B. KIRTMAN(15), V. LACIVITA(1,11), R. DEMICHELIS(1,16)                     *
+ *  G. BRANDEBURG(17), S. SALUSTRO(1,11), G. SANSONE(1,11)                     *
+ *  M.T. RUGGIERO(18)                                                          *
+ *                                                                             *
+ * (1) THEORETICAL CHEMISTRY GROUP - UNIVERSITA' DI TORINO - TORINO (ITALY)    *
+ * (2) COMPUTATIONAL SCIENCE & ENGINEERING DEPARTMENT - STFC DARESBURY (UK)    *
+ * (3) UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS - CUERNAVACA (MEXICO)        *
+ * (4) UNIVERSITE' DE LORRAINE - NANCY (FRANCE)                                *
+ * (5) UNIVERSITAET STUTTGART- STUTTGART (GERMANY)                             *
+ * (6) IMPERIAL COLLEGE - LONDON (UK)                                          *
+ * (7) OXFORD E-RESEARCH CENTRE - OXFORD (UK)                                  *
+ * (8) UPMC - SORBONNE UNIVERSITES - PARIS (FRANCE)                            *
+ * (9) UNIVERSIDAD DE BARCELONA - BARCELONA (SPAIN)                            *
+ *(10) UNIVERSITA' DI NAPOLI "FEDERICO II" - NAPOLI (ITALY)                    *
+ *(11) NIS - NANOSTRUCTURED INTERFACES AND SURFACES - TORINO (ITALY)           *
+ *(12) MPI FUER CHEMISCHE ENERGIEKONVERSION - MUELHEIM AN DER RUHR (GERMANY)   *
+ *(13) UNIVERSITY OF TROMSO - TROMSO (NORWAY)                                  *
+ *(14) UNIVERSITE' DE PAU ET DES PAYS DE L'ADOUR - PAU (FRANCE)                *
+ *(15) UNIVERSITY OF CALIFORNIA SANTA BARBARA - SANTA BARBARA (USA)            *
+ *(16) CURTIN UNIVERSITY - PERTH (AUSTRALIA)                                   *
+ *(17) UNIVERSITY COLLEGE LONDON - LONDON (UK)                                 *
+ *(18) CAMBRIDGE UNIVERSITY - CAMBRIDGE (UK)                                   *
+ *                                                                             *
+ *******************************************************************************
+ EEEEEEEEEE STARTING  DATE 17 07 2025 TIME 13:12:59.5
+
+ *******************************************************************************
+ MGO                                                                             
+ CRYSTAL - PROPERTIES - TYPE OF CALCULATION :  RESTRICTED CLOSED SHELL
+ *******************************************************************************
+ KOHN-SHAM HAMILTONIAN
+
+ (EXCHANGE)[CORRELATION] FUNCTIONAL:(PERDEW-BURKE-ERNZERHOF)[PERDEW-BURKE-ERNZERHOF]
+
+
+ HYBRID EXCHANGE - PERCENTAGE OF FOCK EXCHANGE    25.0000
+
+ DIRECT LATTICE VECTOR COMPONENTS (ANGSTROM)
+         0.00000    2.10500    2.10500
+         2.10500    0.00000    2.10500
+         2.10500    2.10500    0.00000
+
+ LATTICE PARAMETERS  (ANGSTROM AND DEGREES) - PRIMITIVE CELL
+       A          B          C         ALPHA      BETA     GAMMA        VOLUME
+    2.97692    2.97692    2.97692     60.0000   60.0000   60.0000      18.65462
+ *******************************************************************************
+ N. OF ATOMS PER CELL         2 COULOMB OVERLAP TOL          (T1) 10**   -8
+ NUMBER OF SHELLS             8 COULOMB PENETRATION TOL      (T2) 10**   -8
+ NUMBER OF AO                26 EXCHANGE OVERLAP TOL         (T3) 10**   -8
+ N. OF ELECTRONS PER CELL    20 EXCHANGE PSEUDO OVP (F(G))   (T4) 10**   -8
+ CORE ELECTRONS PER CELL     12 EXCHANGE PSEUDO OVP (P(G))   (T5) 10**  -16
+ N. OF SYMMETRY OPERATORS    48 POLE ORDER IN MONO ZONE                   4
+ *******************************************************************************
+   ATOM N.AT.  SHELL    X(A)      Y(A)      Z(A)      EXAD       N.ELECT.
+ *******************************************************************************
+    1   12 MG    4     0.000     0.000     0.000   2.800E-01      10.133
+    2    8 O     4     2.105     2.105     2.105   1.843E-01       9.867
+ *******************************************************************************
+ DE(K)                   0.000E+00  ENERGY LEVEL SHIFTING        0.00000
+ TOTAL ENERGY -2.7532577627199E+02  CONVERGENCE ON ENER        2.929E-10
+ KIN. ENERGY   2.7427204676284E+02  VIR. COEFF.           1.03385102E+00
+ N. OF SCF CYCLES                8  FERMI ENERGY              -0.177E+00
+ WEIGHT OF F(I) IN F(I+1)      30
+ SHRINK. FACT.(MONKH.)     8  8  8  SHRINKING FACTOR(GILAT NET)        8
+ NUMBER OF K POINTS IN THE IBZ  29  CELL VOLUME (A.U.)        125.887585
+ *******************************************************************************
+
+ GCALCO - MAX INDICES DIRECT LATTICE VECTOR    14    14    14
+ NO.OF VECTORS CREATED 6999 STARS  105 RMAX    59.53536 BOHR
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT gordsh1     TELAPSE        0.10 TCPU        0.04
+
+ MATRIX SIZE: P(G)   51290, F(G)    9208, P(G) IRR    2076, F(G) IRR    1063
+ MAX G-VECTOR INDEX FOR 1- AND 2-ELECTRON INTEGRALS 453
+
+
+ CAPPA:IS1  8;IS2  8;IS3  8; K PTS MONK NET  29; SYMMOPS:K SPACE  48;G SPACE  48
+
+
+ CAPPA:IS1  8;IS2  8;IS3  8; K PTS MONK NET  29; SYMMOPS:K SPACE  48;G SPACE  48
+
+ *******************************************************************************
+ RESTART WITH NEW K POINTS NET
+ *******************************************************************************
+ POINTS IN THE IBZ                  29 POINTS(GILAT NET)                29
+ SHRINK FACTORS(MONK.)         8  8  8 SHRINK FACTOR(GILAT)              8
+ *******************************************************************************
+ *** K POINTS COORDINATES (OBLIQUE COORDINATES IN UNITS OF IS =  8)
+   1-R(  0  0  0)   2-C(  1  0  0)   3-C(  2  0  0)   4-C(  3  0  0)
+   5-R(  4  0  0)   6-C(  1  1  0)   7-C(  2  1  0)   8-C(  3  1  0)
+   9-C(  4  1  0)  10-C(  5  1  0)  11-C(  6  1  0)  12-C(  7  1  0)
+  13-C(  2  2  0)  14-C(  3  2  0)  15-C(  4  2  0)  16-C(  5  2  0)
+  17-C(  6  2  0)  18-C(  3  3  0)  19-C(  4  3  0)  20-C(  5  3  0)
+  21-R(  4  4  0)  22-C(  3  2  1)  23-C(  4  2  1)  24-C(  5  2  1)
+  25-C(  4  3  1)  26-C(  5  3  1)  27-C(  6  3  1)  28-C(  5  4  1)
+  29-C(  6  4  2)
+
+ FERMI ENERGY AND DENSITY MATRIX CALCULATION ON COMPUTED EIGENVECTORS
+ DENSITY MATRIX AT SCF CYCLE (  8+1)
+
+ INSULATING STATE
+ TOP OF VALENCE BANDS -    BAND     10; K    1; EIG -1.7655233E-01 AU
+ BOTTOM OF VIRTUAL BANDS - BAND     11; K    1; EIG  9.5992020E-02 AU
+ DIRECT ENERGY BAND GAP:   7.4163 eV
+
+ CORE DENSITY MATRIX CALCULATION
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT NEWK        TELAPSE        0.18 TCPU        0.08
+
+ DENSITY MATRIX CALCULATION ON COMPUTED EIGENVECTORS
+ AT SCF CYCLE (  8+1)
+
+ PDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDEPDE
+
+ DENSITY MATRIX CALCULATION (PDIDE)
+
+ CONTRIBUTION FROM EIGENSTATES IN ENERGY INTERVAL(AU)  -1.0000E+00 -1.0000E-01
+
+ WARNING **** PDIDE **** K POINTS WEIGHTS MODIFIED - COMPTON PROFILES NOT ALLOWED
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT PDIDE       TELAPSE        0.21 TCPU        0.09
+ CHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCH
+
+ ELECTRON CHARGE (AND SPIN) DENSITY - DERIVATIVES UP TO ORDER 0
+
+ CHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCHCH
+
+ CO-ORDINATES IN ANGSTROM
+ REDEFINITION OF THE WINDOW AS A RECTANGULAR WINDOW
+ MARGINS (BOHR):   2.8346   2.8346 ALONG B-C,   2.8346   2.8346 ALONG A-B
+
+                        COORDINATES OF THE 3 POINTS (BOHR):
+              A)  -10.393  -10.393    0.000 POINT INDICES (  1,  1)
+              B)   10.393  -10.393    0.000 POINT INDICES (NPY,  1)
+              C)   10.393   10.393    0.000 POINT INDICES (NPY,NPX)
+
+ N. OF POINTS ALONG THE A-B SEGMENT (NPY)  100
+ N. OF POINTS ALONG THE B-C SEGMENT (NPX)  100
+ N. OF POINTS IN THE GRID :              10000
+ COSINE OF THE ANGLE A-B-C              0.0000
+ N. OF ELEMENTS IN THE SYMMETRY SUB-GROUP   16
+ N. OF POINTS IN THE IRREDUCIBLE ZONE :   5050
+
+
+    ALPHA+BETA ELECTRONS DENSITY - VALMIN  5.3397E-04 VALMAX  1.9158E+00
+
+10000 DATA WRITTEN ON UNIT 25 WITH THE FOLLOWING HEADER
+-%-0MAPN  100  100 0.20997E+00 0.20997E+00 0.00000E+00
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT ECHG        TELAPSE        3.99 TCPU        1.98
+ ENDPROP   
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT END         TELAPSE        3.99 TCPU        1.98
+ EEEEEEEEEE TERMINATION  DATE 17 07 2025 TIME 13:13:03.4
+NODE    0 CPU TIME =         1.975
+    TOTAL CPU TIME =         1.975
+Thu 17 Jul 2025 01:13:03 PM CEST
+total 13136
+-rw-r--r-- 1 daga users   155648 Jul 17 13:12 fort.10.pe0
+-rw-r--r-- 1 daga users    73672 Jul 17 13:12 fort.11.pe0
+-rw-r--r-- 1 daga users   410328 Jul 17 13:12 fort.13.pe0
+-rw-r--r-- 1 daga users        0 Jul 17 13:12 fort.15.pe0
+-rw-r--r-- 1 daga users   122163 Jul 17 13:13 fort.25
+-rw-r--r-- 1 daga users        0 Jul 17 13:12 fort.26.pe0
+-rw-r--r-- 1 daga users    73672 Jul 17 13:12 fort.3.pe0
+-rw-r--r-- 1 daga users    38400 Jul 17 13:12 fort.61.pe0
+-rw-r--r-- 1 daga users    24352 Jul 17 13:12 fort.62.pe0
+-rw-r--r-- 1 daga users   297672 Jul 17 13:12 fort.8.pe0
+-rw-r--r-- 1 daga users   130748 Jul 17 13:12 fort.9
+-rw-r--r-- 1 daga users      115 Jul 17 13:12 INPUT
+-rwxr-xr-x 1 daga users 12108056 Jul 17 13:12 Pproperties-570108
