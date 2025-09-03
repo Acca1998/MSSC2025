@@ -1,7 +1,7 @@
 # MSSC2025 - Ab Initio Modelling in Solid State Chemistry
 
 <div align="center">
-  <img src="https://mssc.crystalsolutions.eu/wp-content/uploads/2025/02/logo_Full-1024x735.png" width="25%">
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEuwVpQB5QRtg/feedshare-shrink_2048_1536/B4DZYPCDaEHwAo-/0/1744008924262?e=1759968000&v=beta&t=GYlYXh4isGJCZL73hSJrEJPaFWMOJABZu_H-Xo3IviU" width="35%">
 </div>
 
 Welcome to the official GitHub repository of the **MSSC2025** 
@@ -28,6 +28,9 @@ quantum-mechanical methods to the study of materials science. Topics include:
 - Parallel computing and response properties
 
 🔗 For more information, visit the [official MSSC2025 webpage](https://mssc.crystalsolutions.eu)
+
+## 📓 Jupyter Notebooks 
+- [Hands-On Kickoff](https://colab.research.google.com/drive/1QFfMfurO-z6g1KIbH9jGdmRVRY3UeGbo?usp=sharing)
 
 ## 📬 Contact
 
