@@ -32,6 +32,7 @@ quantum-mechanical methods to the study of materials science. Topics include:
 ## 📓 Jupyter Notebooks 
 - [Hands-On Kickoff](https://colab.research.google.com/drive/1QFfMfurO-z6g1KIbH9jGdmRVRY3UeGbo?usp=sharing)
 - [Vibrational Spectra](https://colab.research.google.com/drive/1yikyVUdzdXJunZFAGA7wb2GnhizLVSO0?usp=sharing)
+- [Elastic Properties](https://colab.research.google.com/drive/1iEKMhYdyZgNYTLyNvN5ulaPWfoI1Ueco?usp=sharing)
 
 ## 📬 Contact
 
