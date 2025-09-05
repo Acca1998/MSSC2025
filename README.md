@@ -37,6 +37,7 @@ quantum-mechanical methods to the study of materials science. Topics include:
 - [Equation of State](https://colab.research.google.com/drive/1jlHzRi8fF8P2DxrujWmP2ug1jCutzT12#scrollTo=c5920477-3436-4d62-a101-93d1735a0854)
 - [Electron Transport Properties](https://colab.research.google.com/github/crystaldevs/MSSC2025/blob/main/Advanced/Day2/Electron_transport_properties/tutorial_electron_transport_properties.ipynb#scrollTo=de804658)
 - [Vibrational Spectra](https://colab.research.google.com/drive/1yikyVUdzdXJunZFAGA7wb2GnhizLVSO0?usp=sharing)
+- [Phonon Dispersion](https://colab.research.google.com/drive/1TZO1gV-hVZIBGR6T9GUjd79fRRruPjkw?usp=sharing)
 
 ## 📬 Contact
 
