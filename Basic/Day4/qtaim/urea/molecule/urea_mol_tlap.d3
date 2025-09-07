@@ -1,0 +1,17 @@
+TOPO
+TLAP
+0                      IAUTO= 0
+0,0,1,0,20,7,5.        IMETH, IEXT, IBPAT, IPRINT, NSTEP, NNB, RMAX
+12,18                  NT,NP (angular grid)
+0                      NNA=0
+1                      search over the VSCC shell of the first NEA, that is C1
+0,0.                   NMAX,RSTAR
+1                      search over the VSCC shell of the second NEA, that is O3
+0,0.                   NMAX,RSTAR
+1                      search over the VSCC shell of the third NEA, that is N5
+0,0.                   NMAX,RSTAR
+1                      search over the VSCC shell of the fourth NEA, that is H9
+0,0.38                 NMAX,RSTAR [since H is largely positive, a smaller value, 0.38 Ang than the default value for neutral H (1.139 au, Table X.2) used]
+1                      search over the VSCC shell of the fifth NEA, that is H13
+0,0.38                 NMAX,RSTAR
+END

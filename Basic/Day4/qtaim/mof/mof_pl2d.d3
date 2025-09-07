@@ -1,0 +1,21 @@
+TOPO
+PL2D      
+32
+0,0,0
+131
+0,0,0
+129
+0,0,0
+3                              ISHFT=3
+0.5                            VMOD
+30,15.0
+1                              ICONT=1
+-4.,4.,.05
+-4.,4.,.05
+1,1,1,1,1,1,1,1,1,1,1,1        IFU all set to 1
+SO2 at NOTT-401
+0.55                           SCALE=0.55
+2.,0.0,0                       TOLER=2., TR1=0.0 , IPLANE=0
+2.2,1,1,1                      THR=2.2, IL vector all set to 1
+36,0                           NPATH=36, NEXTR=0
+END
